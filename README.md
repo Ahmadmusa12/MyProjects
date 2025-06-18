@@ -1,6 +1,6 @@
-# Mileage Converter
+# Single Page Application (SPA)
 
-I built a mobile mileage-to-kilometer converter app using React Native and Expo. It lets users input either unit (miles or kilometers) and instantly see the converted result. I managed state with React Hooks, implemented the conversion logic, and styled the UI for clean mobile usability.
+This is a starter React app built using Vite. It runs as a Single Page Application (SPA), meaning all interactions happen without full page reloads. The current setup demonstrates dynamic behavior with a simple counter powered by React state.
 
-**Tech Used:** React Native, Expo, JavaScript  
-**How I Built It:** Developed on macOS, tested live using the Expo Go app on my phone.
+**Tech Used:** React, JavaScript, Vite  
+**How I Built It:** Bootstrapped the app with Vite, coded in VS Code, and tested locally.
