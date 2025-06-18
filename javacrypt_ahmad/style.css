@@ -1,0 +1,31 @@
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  background: #111;
+  color: #eee;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+  font-size: 18px;
+  color: #000;            /* FIX: Make typed text black */
+  background-color: #fff; /* FIX: White background */
+  border: 1px solid #ccc; /* Optional border */
+}
+
+button {
+  margin: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+pre {
+  background: #222;
+  padding: 10px;
+  display: inline-block;
+  font-size: 16px;
+}
